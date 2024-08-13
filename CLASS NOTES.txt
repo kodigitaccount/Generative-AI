@@ -1,0 +1,117 @@
+******************************************************************
+WORK SHOP ON GENERATIVE AI -->  zoom.us/j/85072646817
+GOOGLE GEMMA MODEL INTEGRATING WITH HUGGING FACE, GROQ & LANGCHAIN
+******************************************************************
+1- Workshop title 
+2- My introduction 
+3- shared my linkedin to connect with me
+4- GENERATIVE AI 
+	PART OF DATA SCINCE MODEL TRAINED ON MASSIVE AMOUNT OF DATA
+		INTERNET, WEBSITE, BOOKS
+5- CHATGPT ( OPEN AI)
+	GEMINI (GOOGLE)
+		GOOGLE DEVELOPEE NEW OPEN SOURCE LLM MODEL CALLED GEMMA2
+		
+6- GEMMA MODEL + HUGGING FACE + GROQ + LANGCHAIN 
+	
+7- TODAY WE CREATE GOOGLE API KEY -->
+	GOOGLE - DEEP MIND GOOGLE GEMINI -- SCORLL DOWN - BUILD WITH GEMINI
+	
+	GOOGLE AI STUDIO 
+	VERTEX AI 
+	GEMMA MODEL 
+8- RIGHT CLICK ON GOOGL AI STUDIO -- GET API KEY -- CREATE API KEY 
+		SAVE IN YOU NOTEPAD 
+		
+9- GEMMA MODEL FAMILY HAS 
+	GEMMA2 (LATESTE RELEASE) - 9B & 27B PARAMETER 
+	GEMMA1
+	RECURRENT GEMMA
+	PALI GEMMA
+	CODE GEMMA
+
+10- HUGGING FACE HAS LOT OF PRETRAINED MODELS & TRANSFORMER WHICH HELD TO DEVLOPE CHAT BOT 
+	GPT 4 + HF
+	GEMINI + HF 
+	LLAMA3  + HF
+	
+11- PLEASE CREATE LOGIN TO HUGGING FACE
+	LOGIN TO HF - ENTER YOUR PERSONAL DETAIL - SETTING - ACCESS TOKEN - 
+	YOU NEED TO VERIFY ( HF WILL SEND ONE CONFIRMATION EMAIL TO YOUR REGISTER GMAIL)
+
+12- CREATE HUGGING FACE SETTING - CREATE ACCESS TOKEN - COPY & SAVE YOUR HF TOKEN 
+	
+13- GOOGLE API KEY == CREATED
+	HUGGING FACE ACCESS TOKEN == CREATED 
+	
+14- HUGGING FACE - CLICK ON MODELS - SEARCH BOX - GEMMA - 	
+	MODEL = 'google/gemma-2-9b-it'
+	
+15- Google - groq - open the page - right side top corener 
+	save the model name -- (gemma2-9b-it)
+	
+	cpu
+	gpu
+	tpu
+	lpu  -- huge training 
+	
+16- groq - down - groq cloud - api key - create api key -save it 
+	
+	
+
+Google api key = create
+Hugging face token = created
+Huggin face + Gemma = Save the model 
+Groq = api key & gemma-2-9b-it
+
+17- google - google colab - 
+
+18- we juste executed 4 line of code we integrate gemma 9b parameter with hugging face
+
+19- project 1 please complete after session, live, youtube (
+
+20- 2nd project 
+
+21-- gemma, langchian, groq api 
+		
+		
+	
+
+
+
+how to connect to googl drive 
+
+
+
+I will take everyone question at the end. 
+then we will have detail discussion.
+
+==================
+2nd project -->
+
+hg -- model has to gated model 
+groq ap - key & model should be required
+langchain in gpu
+
+--> RAG ( INTRODUCTION )
+
+
+NOTES -->
+--
+ABOUT INDIA 
+ABOUT CRICKET 
+
+
+
+---------
+live link -->
+---------
+https://www.youtube.com/watch?v=Bp1XyvMvedg
+
+----
+NOTES -->
+----
+1- Duration of the workshop is 2hr 
+	This workshop is live in youtube ( Shared youtube link)
+2- Do not work practicle in mobile network 
+3- 
